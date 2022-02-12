@@ -17,3 +17,4 @@ Se calculeaza matricele derivatelor punctelor (in functie de x, y, xy) cu
 ajutorul functilor de derivare. Utilizand matricile derivatelor se calculeaza
 coeficientii de interpolare. Resize-ul si surrounding_points este asemanator
 punctului anterior.
+
